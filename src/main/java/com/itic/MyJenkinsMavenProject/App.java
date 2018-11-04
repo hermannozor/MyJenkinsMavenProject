@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Bout de code avant le deuxième commit");
+        System.out.println("Bout de code avant le troisième commit");
+        System.out.println("Bout de code avant le troisième commit");
     }
 }
