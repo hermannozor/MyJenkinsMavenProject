@@ -12,5 +12,6 @@ public class App
         System.out.println("Bout de code avant le deuxième commit");
         System.out.println("Bout de code avant le troisième commit");
         System.out.println("Bout de code avant le troisième commit");
+        System.out.println("Ceci est le test final git hub bla bla bla");
     }
 }
